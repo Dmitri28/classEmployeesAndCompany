@@ -1,0 +1,14 @@
+E:\проект на c#\classEmploeesAndCompany\classEmploeesAndCompany\bin\Debug\netcoreapp3.1\classEmploeesAndCompany.exe
+E:\проект на c#\classEmploeesAndCompany\classEmploeesAndCompany\bin\Debug\netcoreapp3.1\classEmploeesAndCompany.deps.json
+E:\проект на c#\classEmploeesAndCompany\classEmploeesAndCompany\bin\Debug\netcoreapp3.1\classEmploeesAndCompany.runtimeconfig.json
+E:\проект на c#\classEmploeesAndCompany\classEmploeesAndCompany\bin\Debug\netcoreapp3.1\classEmploeesAndCompany.runtimeconfig.dev.json
+E:\проект на c#\classEmploeesAndCompany\classEmploeesAndCompany\bin\Debug\netcoreapp3.1\classEmploeesAndCompany.dll
+E:\проект на c#\classEmploeesAndCompany\classEmploeesAndCompany\bin\Debug\netcoreapp3.1\classEmploeesAndCompany.pdb
+E:\проект на c#\classEmploeesAndCompany\classEmploeesAndCompany\obj\Debug\netcoreapp3.1\classEmploeesAndCompany.csproj.AssemblyReference.cache
+E:\проект на c#\classEmploeesAndCompany\classEmploeesAndCompany\obj\Debug\netcoreapp3.1\classEmploeesAndCompany.GeneratedMSBuildEditorConfig.editorconfig
+E:\проект на c#\classEmploeesAndCompany\classEmploeesAndCompany\obj\Debug\netcoreapp3.1\classEmploeesAndCompany.AssemblyInfoInputs.cache
+E:\проект на c#\classEmploeesAndCompany\classEmploeesAndCompany\obj\Debug\netcoreapp3.1\classEmploeesAndCompany.AssemblyInfo.cs
+E:\проект на c#\classEmploeesAndCompany\classEmploeesAndCompany\obj\Debug\netcoreapp3.1\classEmploeesAndCompany.csproj.CoreCompileInputs.cache
+E:\проект на c#\classEmploeesAndCompany\classEmploeesAndCompany\obj\Debug\netcoreapp3.1\classEmploeesAndCompany.dll
+E:\проект на c#\classEmploeesAndCompany\classEmploeesAndCompany\obj\Debug\netcoreapp3.1\classEmploeesAndCompany.pdb
+E:\проект на c#\classEmploeesAndCompany\classEmploeesAndCompany\obj\Debug\netcoreapp3.1\classEmploeesAndCompany.genruntimeconfig.cache
